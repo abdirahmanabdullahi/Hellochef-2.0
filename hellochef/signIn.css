@@ -1,0 +1,244 @@
+
+body{
+
+    background-color: #fafafa;
+}
+
+/* ========================================START NAVBAR======================================== */
+.navbar-brand{
+height: 60px;
+margin-left: 30px;
+}
+
+
+.navbar {
+  box-shadow: 10px 10px 10px rgb(224, 224, 224, .45);
+}
+.nav-link{
+  font-weight: 500;
+  font-size: 1rem;
+
+}
+
+
+.collapse {
+  margin-left: 600px;
+}
+
+.sign-in-button {
+  height: 50px;
+  width: 100px;
+  font-weight: 500;
+  color: white;
+  letter-spacing: .5px;
+  border-radius: 10px;
+  background-color: #e42a12;
+  border: none;
+  margin-left: 20px;
+}
+
+/*  */
+/* ========================================END NAVBAR======================================== */
+
+
+/* ===============================================START FORM======================================= */
+
+
+.log-in{
+  box-sizing: border-box;
+  height: 370px;
+  width:500px;
+  border-radius: 10px;
+  padding: 30px 0 58px;
+
+}
+
+
+input{
+  height: 45px;
+  width: 420px;
+  margin: 5px;
+  position: relative;
+  border-radius: 6px;
+  border: 1px solid rgba(158,158,158, .35);
+
+}
+.card{
+  margin-bottom: 100px;
+border-radius: 2%;
+}
+.sign-in{
+    height: 50px;
+    width: 420px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 0.01px;
+    border-radius: 10px;
+    background-color: #e42a12;
+    margin: 20px 0 20px;
+}
+
+.reset{
+  color: #e42a12;
+  text-decoration: underline;
+  position: relative;
+  margin-top: 15px;
+  margin-right:   320px;
+  font-size: .8rem;
+}
+
+.sign-in-label{
+  text-align: center;
+  margin:  50px;
+  font-weight: bolder;
+  color: #203239;
+}
+
+.label{
+  font-size: .9rem;
+  color:#9E9E9E;
+  margin: 10px 0 0 10px;
+}
+
+.last-q{
+  color: grey;
+}
+.get-started{
+  color: #e42a12;
+text-decoration: underline;
+margin: 20px 5px;
+}
+
+
+
+
+/* =========================================================START FOOTER SECTION================================================= */
+.footer{
+  background-color: #fafafa;
+  height: 600px;
+}
+
+.logo-row{
+  height: 70px;
+}
+
+
+#footer .row{
+  margin: 50px 200px;
+  width:auto;
+
+}
+
+#footer .row div{
+  height: 200px;
+}
+
+
+
+.blog-image{
+  height: 75px;
+  width: 125px;
+  margin-bottom:  10px;
+  border-radius: 10px;
+}
+
+.contact-us, .blog{
+text-align: right;
+align-items: flex-end;
+}
+
+.info{
+  color: #9A9483;
+}
+
+.subscribe{
+  height: 44px;
+  width: 100px;
+  font-weight: 600;
+  color: white;
+  top: 109px;
+  left: 210px;
+position: relative;
+z-index: 1;
+ background-color: #e42a12;
+}
+
+#footer input{
+  height: 45px;
+  width: 300px;
+    text-align: right;
+  border: 1px solid;
+  border-radius: 4px;
+  border-color: #E5DCC3;
+padding-right: 10px;
+
+
+}
+
+
+#footer label{
+font-size: .9rem;
+color:#9A9483;
+margin-right: 100px;
+padding: 5px;
+}
+
+.second-container{
+  padding-top: 30px;
+  text-align: right;
+}
+
+.last-container{
+  padding-top: 30px;
+  text-align: right;
+  padding: 0;
+  position: relative;
+  left: 50px;
+  top: 25px;
+}
+
+.logo2{
+height: 25px;
+width: 25px;
+}
+
+.second-container .bi{
+    color: orange;
+}
+
+
+.second-container a {
+
+  text-decoration: none;
+}
+
+.icons{
+  font-size: 1.3rem;
+}
+
+.social{
+  font-size: 2rem;
+  color: #9A9483;
+margin: 10px;
+}
+.heart{
+  color: red;
+
+}
+
+.heart{
+font-size: 1.5rem;
+
+}
+.dedication{
+  text-align: center;
+}
+
+.finish{
+  text-align: center;
+  font-size: .8rem;
+font-weight: 600;
+}
+
+
+/* =========================================================END FOOTER SECTION================================================= */

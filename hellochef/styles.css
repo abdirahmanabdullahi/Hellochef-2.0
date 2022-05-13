@@ -1,0 +1,504 @@
+/* =============================================START BODY=========================================== */
+body {
+  /* font-family:  Roboto; */
+}
+
+/* =============================================END BODY=========================================== */
+/* ========================================START NAVBAR======================================== */
+.navbar-brand{
+height: 60px;
+margin-left: 30px;
+}
+
+.nav-link{
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+
+.collapse {
+  margin-left: 600px;
+}
+
+.sign-in-button {
+  height: 45px;
+  width: 100px;
+  font-weight: 500;
+  color: white;
+  letter-spacing: .5px;
+  border-radius: 10px;
+  background-color: #e42a12;
+  border: none;
+  margin-left: 20px;
+}
+
+/*  */
+/* ========================================END NAVBAR======================================== */
+/* ========================================START HELLO SECTION======================================== */
+
+#hello-section{
+  height: 500px;
+  width: 100%;
+  background-image: url("images/first-page/banner.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 80px;
+}
+
+.centered{
+  z-index: 1
+}
+#hello-section .container-fluid {
+  height: 550px;
+  width: auto;
+}
+
+#hello-section h4 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+#hello-section p {
+  text-align: center;
+  margin: 30px;
+  font-size: 1.2rem;
+}
+
+.get-started-button {
+  height: 50px;
+  width: 170px;
+  font-weight: 500;
+  letter-spacing: .5px;
+  border-radius: 10px;
+  background-color: #e42a12;
+  border: none;
+  color: white;
+}
+
+/* ========================================END HELLO SECTION======================================== */
+/* ======================================START WHY SECTION======================================== */
+#why-section H1 {
+  font-weight: 500;
+  text-align: center;
+  font-size: 2rem;
+
+}
+
+#why-section p {
+  text-align: center;
+
+}
+
+#why-section{
+  height: 600px;
+  width: auto;
+
+}
+
+.card-container{
+  padding-top: 30px;
+}
+
+ol ::marker{
+  padding: 0;
+  font-size: 1.5rem;
+color: #f49f65;
+}
+
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  margin: 5px;
+}
+
+
+.card-image-top {
+  height: 200px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: #e42a12;
+}
+
+.card-text {
+  height: 200px;
+  text-align: left;
+}
+.card-title{
+  font-size: 1.5rem;
+}
+
+li{
+  padding: 0 5px 0;
+}
+
+.card-list ::marker{
+  content: "✔";
+  font-size: 1rem;
+  font-weight: bold;
+  color: #4E944F;
+}
+.card li{
+  font-weight: 500;
+margin-top: 8px;
+}
+
+/* ======================================END WHY SECTION======================================== */
+
+
+
+
+  /* ========================================START HOW IT WORKS SECTION======================================== */
+
+#how-it-works .container{
+  height: 600px;
+  background-image: url("images/first-page/howItWorks.jpg");
+  background-size: cover;
+
+}
+#how-it-works .container-2{
+  height: 600px;
+  padding: 100px 0 20px 60px;
+  background-color: #FFCCD2;
+}
+
+.container-2{
+  font-weight: bold;
+
+}
+
+.container-2 h1{
+  color: #e42a12;
+
+}
+
+.container-2 li{
+  margin: 30px;
+  margin-left: 0;
+  letter-spacing: 1px;
+
+}
+
+.learn-more{
+  height: 50px;
+  width: 150px;
+  font-weight: 500;
+  letter-spacing: .5px;
+  border-radius: 10px;
+  margin: 20px 10px;
+  background-color: #e42a12;
+  border: none;
+  color: white;
+}
+
+
+
+
+  /* ========================================END HOW IT WORKS SECTION======================================== */
+
+
+
+/* ========================================START MENU SECTION===================================== */
+
+
+#menu-section {
+  height: 600px;
+  width: auto;
+  padding: 50px;
+  background-color: white;
+
+}
+
+#menu-section h1{
+text-align: center;
+
+}
+
+#menu-section p{
+text-align: center;
+margin: 20px;
+
+}
+
+.menu{
+  height: 50px;
+  width: 150px;
+  font-weight: 500;
+  letter-spacing: .5px;
+  border-radius: 10px;
+  margin: 20px 10px;
+  background-color: #e42a12;
+  border: none;
+  color: white;
+}
+
+
+
+/* ========================================END MENU SECTION===================================== */
+
+
+/* ==================================================START IG SECTION========================================== */
+
+
+#ig-section{
+  height: 600px;
+  background-color: #EEEEEE;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+  margin: 50px 10px;
+}
+
+#ig-section a{
+
+  font-size: 2rem;
+  color: black;
+
+}
+.ig-image{
+  height: 200px;
+  width:200px;
+  margin: 10px;
+}
+
+#ig-section h4{
+  text-align: center;
+  margin: 30px 0 10px;
+}
+
+span{
+  color: #e42a12;
+}
+
+#ig-section .bi{
+  color: orange;
+
+}
+
+.icons{
+  margin: 0 10px;
+}
+
+.google-logo{
+  height: 25px;
+  width:75px;
+  margin-left: 5px;
+}
+
+
+#ig-section p{
+text-align: center;
+margin-top: 20px;
+}
+
+/* ==================================================END IG SECTION========================================== */
+
+
+/* ==================================================START HUNGRY FOR MORE SECTION========================================== */
+
+
+#hungry-for-more{
+
+background-image: url("images/first-page/1.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: auto;
+
+}
+
+
+.hungry-for-more{
+
+  background-color: white;
+  height: 250px;
+  width: auto;
+  margin: 130px 200px 0;
+  border-radius: 10px;
+  padding: 0;
+
+}
+
+.hungry-for-more h2{
+padding-top: 30px;
+text-align: center;
+}
+
+.hungry-for-more input{
+  height: 45px;
+  width: 400px;
+    text-align: right;
+  border: 1px solid;
+  border-radius: 4px;
+  border-color: #E5DCC3;
+padding-right: 10px;
+
+
+}
+
+
+.hungry-for-more label{
+font-size: .9rem;
+color:#9A9483;
+margin-right: 300px;
+padding: 5px;
+
+
+}
+
+
+
+
+.sign-up{
+  padding-top: 30px;
+  font-size: .9rem;
+  font-weight: bold;
+  line-height: 1.2;
+  color: #9A9483;
+  text-align: center;
+}
+
+#hungry-for-more p{
+padding-top: 30px;
+font-size: .9rem;
+line-height: 1.2;
+color: #9A9483;
+text-align: center;
+}
+
+
+/* ==================================================END HUNGRY FOR MORE SECTION========================================== */
+
+
+
+/* =========================================================START FOOTER SECTION================================================= */
+
+.hello-logo{
+  height: 75px;
+  width: 200px;
+  margin-top: 30px;
+}
+
+.footer{
+  background-color: #fafafa;
+  height: 600px;
+}
+
+#footer h1{
+
+font-size: 2.5rem;
+font-weight: 900;
+text-align: center;
+padding-top: 50px;
+color: #e42a12;
+}
+
+
+#footer .row{
+  margin: 50px 200px;
+  width:auto;
+
+}
+
+#footer .row div{
+  height: 200px;
+}
+
+
+
+.blog-image{
+  height: 75px;
+  width: 125px;
+  margin-bottom:  10px;
+  border-radius: 10px;
+}
+
+.contact-us, .blog{
+text-align: right;
+align-items: flex-end;
+}
+
+.info{
+  color: #9A9483;
+}
+
+
+#footer input{
+  height: 45px;
+  width: 300px;
+    text-align: right;
+  border: 1px solid;
+  border-radius: 4px;
+  border-color: #E5DCC3;
+padding-right: 10px;
+
+
+}
+
+
+#footer label{
+font-size: .9rem;
+color:#9A9483;
+margin-right: 100px;
+padding: 5px;
+}
+
+.second-container{
+  padding-top: 30px;
+  text-align: right;
+}
+
+.last-container{
+  padding-top: 30px;
+  text-align: right;
+  padding: 0;
+  position: relative;
+  left: 50px;
+  top: 25px;
+}
+
+.logo2{
+height: 25px;
+width: 25px;
+}
+
+.second-container .bi{
+    color: orange;
+}
+
+
+.second-container a {
+
+  text-decoration: none;
+}
+
+.icons{
+  font-size: 1.3rem;
+}
+
+.social{
+  font-size: 2rem;
+  color: #9A9483;
+margin: 10px;
+}
+.heart{
+  color: red;
+
+}
+
+.heart{
+font-size: 1.5rem;
+
+}
+.dedication{
+  text-align: center;
+}
+
+.finish{
+  text-align: center;
+  font-size: .8rem;
+font-weight: 600;
+}
+/* =========================================================END FOOTER SECTION================================================= */

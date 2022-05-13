@@ -1,0 +1,273 @@
+
+.how-it-works{
+  background-color: #fafafa;
+margin: 0;
+}
+/* ========================================START NAVBAR======================================== */
+
+
+.navbar-brand{
+height: 60px;
+margin:0 40px 0 20px;
+}
+
+.nav-link{
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.navbar {
+  box-shadow: 10px 10px 10px rgb(224, 224, 224, .45);
+}
+
+.collapse {
+  margin-left: 600px;
+}
+
+.sign-in-button {
+  height: 50px;
+  width: 100px;
+  font-weight: 500;
+  color: white;
+  letter-spacing: .5px;
+  border-radius: 10px;
+  background-color: #e42a12;
+  border: none;
+  margin-left: 20px;
+}
+
+.main-image{
+  height: 500px;
+  width: auto;
+}
+
+/*  */
+/* ========================================END NAVBAR======================================== */
+
+/* ============================================START FIRST SECTION=========================== */
+
+
+.how-img{
+  height: inherit;
+  width: inherit;
+}
+
+.first-section-container{
+}
+
+.container-2 {
+width: 600px;
+height: 200px;
+margin-top: 25%;
+position: absolute;
+text-align:center;
+}
+
+.container-2 h1 {
+font-size: 90px;
+font-weight: 600;
+
+}
+
+.container-2 h6 {
+font-size: 1.5rem;
+
+}
+
+#first-section div{
+  height: 500px;
+  width: auto;
+
+}
+#first-section
+
+
+
+
+
+/* ============================================END FIRST SECTION=========================== */
+
+
+
+
+
+
+
+/* ===========================================START HOW IT WORKS=============================== */
+
+.major-container{
+  height: 360px;
+margin-left: 40px;
+align-items: center;
+background-color: red;
+
+}
+
+.btn{
+  background-color: #e42a12;
+  color: white;
+}
+hr{
+  left: 150px;
+  width: 70%;
+}
+.hr{
+  margin-left: 200px;
+}
+.last-hr{
+  width: 100%;
+}
+.containers{
+  height: 300px;
+  margin:  80px;
+  justify-content: center;
+  align-items: center;
+}
+h4{
+  padding-bottom:   30px;
+}
+
+h6{
+  color: grey;
+  margin-bottom : 40px;
+}
+.right{
+  padding: 40px;
+}
+
+.how-image{
+  height: 268px;
+  width: 382px;
+  border-radius: 10px;
+}
+/* ===========================================END HOW IT WORKS=============================== */
+
+.hello-logo{
+  height: 75px;
+  width: 200px;
+  margin-top: 30px;
+}
+
+.footer{
+  background-color: #fafafa;
+  height: 600px;
+}
+
+#footer h1{
+
+font-size: 2.5rem;
+font-weight: 900;
+text-align: center;
+padding-top: 50px;
+color: #e42a12;
+}
+
+
+#footer .row{
+  margin: 50px 200px;
+  width:auto;
+
+}
+
+#footer .row div{
+  height: 200px;
+}
+
+.last-hr{
+  margin: 0;
+}
+
+.blog-image{
+  height: 75px;
+  width: 125px;
+  margin-bottom:  10px;
+  border-radius: 10px;
+}
+
+.contact-us, .blog{
+text-align: right;
+align-items: flex-end;
+}
+
+.info{
+  color: #9A9483;
+}
+
+
+#footer input{
+  height: 45px;
+  width: 300px;
+    text-align: right;
+  border: 1px solid;
+  border-radius: 4px;
+  border-color: #E5DCC3;
+padding-right: 10px;
+
+
+}
+
+
+#footer label{
+font-size: .9rem;
+color:#9A9483;
+margin-right: 100px;
+padding: 5px;
+}
+
+.second-container{
+  padding-top: 30px;
+  text-align: right;
+}
+
+.last-container{
+  padding-top: 30px;
+  text-align: right;
+  padding: 0;
+  position: relative;
+  left: 50px;
+  top: 25px;
+}
+
+.logo2{
+height: 25px;
+width: 25px;
+}
+
+.second-container .bi{
+    color: orange;
+}
+
+
+.second-container a {
+
+  text-decoration: none;
+}
+
+.icons{
+  font-size: 1.3rem;
+}
+
+.social{
+  font-size: 2rem;
+  color: #9A9483;
+margin: 10px;
+}
+.heart{
+  color: red;
+
+}
+
+.heart{
+font-size: 1.5rem;
+
+}
+.dedication{
+  text-align: center;
+}
+
+.finish{
+  text-align: center;
+  font-size: .8rem;
+font-weight: 600;
+}
+/* =========================================================END FOOTER SECTION================================================= */

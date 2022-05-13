@@ -1,0 +1,154 @@
+body {
+  background-color: #FAFAFA;
+}
+
+.navbar{
+ box-shadow: -5px 1px 5px 1px rgba(224,224,224, .45) ;
+
+}
+.navbar-brand{
+  height: 75px;
+  width: 185px;
+  margin: 0 200px 0 20px;rgb(245,245,245)
+}
+
+.navbar{
+}
+
+.nav-link{
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+
+.collapse {
+  margin-left: 460px;
+}
+
+.sign-in-button {
+  height: 55px;
+  width: 110px;
+  font-weight: 500;
+  color: white;
+  letter-spacing: .5px;
+  border-radius: 10px;
+  background-color: #e42a12;
+  border: none;
+  margin:  0 15px;
+}
+
+/* ===================================================================START MENU========================================== */
+.row {
+  margin-top: 90px;
+  height: 420px;
+}
+
+.row-2 {
+  margin-top: 0;
+  height: 420px;
+  width: auto;
+}
+
+.card {
+  box-shadow: .5px .5px 4px rgb(224, 224, 224);
+}
+
+.large-card {
+  height: 390px;
+  width: 565px;
+  margin: 10px;
+  padding: 0;
+  border-radius: 20px;
+  border: none;
+
+}
+
+.large-image {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+
+
+}
+
+.small-card {
+  height: 390px;
+  width: 273px;
+  margin: 10px 10px;
+  padding: 0;
+  border-radius: 8px;
+}
+
+.card-image-top {
+  height: 200px;
+  width: 100%;
+  border-top: 10px;
+  border-radius:  8px 8px 0 0;
+
+}
+
+.card-title {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 1.2rem
+}
+
+.card-text {
+  color: grey;
+  margin-left: 20px;
+}
+
+.last {
+  color: orange;
+}
+
+.card div {
+  margin: 20px;
+  line-height: 0;
+}
+
+.middle {
+  color: purple;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.family {
+  color: blue;
+}
+
+.loner {
+  position: relative;
+  margin-left: 100px;
+}
+
+/* =======================================================================END MENU=========================================== */
+/* ====================================================================START FOOTER============================================ */
+.footer {
+  height: 100px;
+  width: auto;
+  margin-top: 100px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-shadow: .5px .5px 4px rgb(224, 224, 224);
+}
+
+.last-button {
+  height: 50px;
+  width: 130px;
+  color: white;
+  border-radius: 10px;
+  background-color: #e42a12;
+  font-weight: bolder;
+}
+
+/* ====================================================================END FOOTER============================================ */
